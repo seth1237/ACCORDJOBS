@@ -480,7 +480,7 @@ def main():
     print(f"New today: {dashboard['stats']['new_today']}")
     print(f"Interview recommendations: {dashboard['stats']['interview_recommended']}")
     
-    print("\nReview them at http://localhost:5006")
+    print("\nReview them at http://localhost:5009")
     print("Sign in with the HR review account. That password is not the mailbox password.")
 
 
