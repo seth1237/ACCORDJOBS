@@ -618,7 +618,7 @@ def _safe_stored_path(stored: str, root_dir: str):
     return path
 
 
-def run_dashboard(host="0.0.0.0", port=5000, debug=False):
+def run_dashboard(host="0.0.0.0", port=5006, debug=False):
     print(f"HR review is at http://127.0.0.1:{port}")
     print("Sign in with the HR review account. That password is not the mailbox password.")
     app.run(host=host, port=port, debug=debug, use_reloader=False)
