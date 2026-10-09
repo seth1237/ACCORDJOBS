@@ -1,0 +1,352 @@
+2026-07-04 21:37:58,235 - database - INFO - Database initialized successfully
+2026-07-04 21:40:12,327 - database - INFO - Database initialized successfully
+2026-07-04 21:40:12,371 - gemini - INFO - Gemini client initialized with model: gemini-1.5-flash
+2026-07-04 21:40:12,399 - gemini - INFO - Gemini client initialized with model: gemini-1.5-flash
+2026-07-04 21:40:12,399 - __main__ - INFO - ATS Processor initialized
+2026-07-04 21:40:12,399 - __main__ - INFO - Starting email processing...
+2026-07-04 21:40:13,898 - email_client - ERROR - Failed to connect to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2026-07-04 21:40:13,899 - __main__ - ERROR - Failed to connect to email server
+2026-07-04 21:40:13,899 - __main__ - INFO - Processing CV files from: CVs/
+2026-07-04 21:40:13,899 - __main__ - INFO - Generating dashboard...
+2026-07-04 21:41:41,590 - database - INFO - Database initialized successfully
+2026-07-04 21:41:41,633 - gemini - INFO - Gemini client initialized with model: gemini-1.5-flash
+2026-07-04 21:41:41,663 - gemini - INFO - Gemini client initialized with model: gemini-1.5-flash
+2026-07-04 21:41:41,663 - main - INFO - ATS Processor initialized
+2026-07-04 21:41:41,663 - main - INFO - Generating dashboard...
+2026-07-04 21:41:41,665 - main - INFO - Dashboard saved to: output/dashboard_20260704_214141.json
+2026-07-04 21:42:19,744 - database - INFO - Database initialized successfully
+2026-07-04 21:42:19,788 - gemini - INFO - Gemini client initialized with model: gemini-1.5-flash
+2026-07-04 21:42:19,816 - gemini - INFO - Gemini client initialized with model: gemini-1.5-flash
+2026-07-04 21:42:19,816 - __main__ - INFO - ATS Processor initialized
+2026-07-04 21:42:19,816 - __main__ - INFO - Starting email processing...
+2026-07-04 21:42:21,172 - email_client - ERROR - Failed to connect to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2026-07-04 21:42:21,172 - __main__ - ERROR - Failed to connect to email server
+2026-07-04 21:42:21,172 - __main__ - INFO - Processing CV files from: CVs/
+2026-07-04 21:42:21,172 - __main__ - INFO - Generating dashboard...
+2026-07-04 21:42:21,174 - __main__ - INFO - Dashboard saved to: output/dashboard_20260704_214221.json
+2026-07-04 22:11:32,602 - database - INFO - Database initialized successfully
+2026-07-04 22:11:32,602 - gemini - INFO - Using OpenRouter API
+2026-07-04 22:11:32,602 - gemini - INFO - Using OpenRouter API
+2026-07-04 22:11:32,602 - __main__ - INFO - ATS Processor initialized
+2026-07-04 22:11:32,602 - __main__ - INFO - Starting email processing...
+2026-07-04 22:11:33,080 - email_client - INFO - Connected to email server: mail.accordmedical.co.ke:993
+2026-07-04 22:11:38,797 - email_client - INFO - Fetched 20 unread emails
+2026-07-04 22:11:38,797 - __main__ - INFO - Processing email: ('Application for Medical Engineering Internship', None) from ('Damaris Savali <damarissavali61@gmail.com>', None)
+2026-07-04 22:11:38,798 - __main__ - INFO - Processing email: ('Application for technical sales engineer job', None) from ('john jonathan kiti <johnjonathan359@gmail.com>', None)
+2026-07-04 22:11:38,798 - __main__ - INFO - Processing email: ('Technical Sales Engineer Application', None) from ('Ephraim Mandala <khalauheniephraim@gmail.com>', None)
+2026-07-04 22:11:38,799 - __main__ - INFO - Processing email: ('APPLICATION FOR TECHNICAL SALES ENGINEER POSITION', None) from ('faith cherono kiget <faithkiget29@gmail.com>', None)
+2026-07-04 22:11:38,984 - __main__ - ERROR - Error processing email ('APPLICATION FOR TECHNICAL SALES ENGINEER POSITION', None): command: SEARCH => unexpected response: b'EIj0GnNc2fNRDDcDQzXWuTuVb3g74dV/oZGDsIYTYaXwgN9RO'
+2026-07-04 22:11:38,984 - __main__ - ERROR - Error processing email ('Application for Medical Engineering Internship', None): command: FETCH => unexpected response: b'lid'
+2026-07-04 22:11:38,984 - __main__ - INFO - Processing email: ('Technical sales engineer', None) from ('Chepleting Joan <joanbaiwo94@gmail.com>', None)
+2026-07-04 22:11:38,985 - __main__ - INFO - Processing email: ('Application for Technician Sales Engineer', None) from ('Seth Otani <sethotani@gmail.com>', None)
+2026-07-04 22:11:38,985 - __main__ - ERROR - Error processing email ('Application for technical sales engineer job', None): command: FETCH => unexpected response: b'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
+2026-07-04 22:11:38,985 - __main__ - ERROR - Error processing email ('Technical sales engineer', None): command: SEARCH => unexpected response: b'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC0'
+2026-07-04 22:11:38,985 - __main__ - INFO - Processing email: ('Fwd: Application for Technical Sales Engineer Position', None) from ('Accord Medical Supplies Ltd <accordmedsupplies@gmail.com>', None)
+2026-07-04 22:11:38,986 - __main__ - INFO - Processing email: ('Application for Technical Sales Engineer', None) from ('James Mugendi <jamesmugendi777@gmail.com>', None)
+2026-07-04 22:11:39,042 - __main__ - ERROR - Error processing email ('Technical Sales Engineer Application', None): command: SEARCH => unexpected response: b'3slJet1soUhoNsaaegiaLeRRDXmkICQDjAVjpywORYRRIEKPSsQ4uqAeIzhEHe5DUqPSogmmAxRL'
+2026-07-04 22:11:39,042 - __main__ - INFO - Processing email: ('APPLICATION FOR TECHNICAL SALES POSITION', None) from ('Joshua Muindi Muthiani <joshuamuindimuthiani@gmail.com>', None)
+2026-07-04 22:11:39,043 - __main__ - ERROR - Error processing email ('Application for Technician Sales Engineer', None): command: SEARCH => unexpected response: b'2ybvsKdr/ZPuS'
+2026-07-04 22:11:39,043 - __main__ - ERROR - Error processing email ('APPLICATION FOR TECHNICAL SALES POSITION', None): command: SEARCH => unexpected response: b'PRe/zLe7p+hQfLv76uEp2n39+rJKtk8v0WEdrzfrw7cPlmF49+dpvmGZ5ZvtLn3ZbZNsvy/e5dPm'
+2026-07-04 22:11:39,043 - __main__ - INFO - Processing email: ('Request for Leave', None) from ('accounts@accordmedical.co.ke', None)
+2026-07-04 22:11:39,043 - __main__ - ERROR - Error processing email ('Fwd: Application for Technical Sales Engineer Position', None): command: SEARCH => unexpected response: b'6pxQ6HGddQwbqDqDhVl6lrCpSsZ7DVx0TnFfPer'
+2026-07-04 22:11:39,043 - __main__ - INFO - Processing email: (b'Trusted by Institutions Across Africa and Beyond', 'utf-8') from ('"Mr. Mao" <liserve@post.bossgoo.com>', None)
+2026-07-04 22:11:39,043 - __main__ - ERROR - Error processing email ('Application for Technical Sales Engineer', None): command: SEARCH => socket error: unterminated line: b'\n'
+2026-07-04 22:11:39,044 - __main__ - INFO - Processing email: ('Expression of interest - biomedical engineering, technical sales and\r\n customer support opportunities.', None) from ('Leah Kageha <kagehaleah69@gmail.com>', None)
+2026-07-04 22:11:39,044 - __main__ - ERROR - Error processing email ('Request for Leave', None): command: SEARCH => unexpected response: b'JXQCxLN8IG336fb5sC8n2Sfr9eP9m2izjnfr49ruH+//8cff/f1vvy+/y4ro8vF+HT3e//jDH378'
+2026-07-04 22:11:39,044 - __main__ - ERROR - Error processing email (b'Trusted by Institutions Across Africa and Beyond', 'utf-8'): command: SEARCH => unexpected response: b'4c93H97/5cP7v374/vsP7/9U/sG7jwvLXSd4EAoBVdpF5vjbiKZhN6LczTicQRN3XJQ2lYreiKJX'
+2026-07-04 22:11:39,044 - __main__ - INFO - Processing email: ('APPLICATION FOR THE POSITION OF SALES ENGINEER', None) from ('Charity Awuor <charityawuor1999@gmail.com>', None)
+2026-07-04 22:11:39,044 - __main__ - INFO - Processing email: ('', None) from ('Mercy Msupulu <msupulumercy@gmail.com>', None)
+2026-07-04 22:11:39,045 - __main__ - ERROR - Error processing email ('Expression of interest - biomedical engineering, technical sales and\r\n customer support opportunities.', None): command: SEARCH => unexpected response: b'AgwqyHAc+YrEKL+48xWltS20thLWFs2MJznxR+bdmkS1RW0L7VIcs1x30bFDpkKe05EXGaiQ52CC'
+2026-07-04 22:11:39,045 - __main__ - INFO - Processing email: (b'Follow Up \xe2\x80\x94 Technical Sales Engineer Application | Alvin Kiprotich', 'utf-8') from ('alvo lagz <alvo.lagz@gmail.com>', None)
+2026-07-04 22:11:39,045 - __main__ - ERROR - Error processing email ('APPLICATION FOR THE POSITION OF SALES ENGINEER', None): command: SEARCH => unexpected response: b'pMeBZqLJA0yQNCfgjOao0TdzRqrSLqImSORto2GUVIhwGyZIlqqyqKI3onyjAIMKMhwHyE3tNM8y'
+2026-07-04 22:11:39,045 - __main__ - INFO - Processing email: ('MEDICAL SALES MARKETING', None) from ('IMMACULATE MUNYIRI <immaculatemunyiri7@gmail.com>', None)
+2026-07-04 22:11:39,045 - __main__ - ERROR - Error processing email ('', None): command: SEARCH => unexpected response: b'TRIkaO0x1D4xQaJMVFvUttAuQTLLdRcdO2RqvdKatJMJEqDWK71DOyZITr4wE3U5YIKkOQFnNEe1'
+2026-07-04 22:11:39,045 - __main__ - INFO - Processing email: ('TECHNICAL SALES ENGINEER OPPORTUNITY', None) from ('IMMACULATE MUNYIRI <immaculatemunyiri7@gmail.com>', None)
+2026-07-04 22:11:39,045 - __main__ - ERROR - Error processing email (b'Follow Up \xe2\x80\x94 Technical Sales Engineer Application | Alvin Kiprotich', 'utf-8'): command: SEARCH => unexpected response: b'2ZkzUpV2ETVBIm8bDaOkQiRIMUGyVL1gFb0RhYgFGFSQ4ThAbpYXMJdfn2eaBAlaewzdakyQKBPV'
+2026-07-04 22:11:39,045 - __main__ - ERROR - Error processing email ('MEDICAL SALES MARKETING', None): command: SEARCH => unexpected response: b'FrUttEuQzHLdRccOmarlHkOCBKha7mGCpMeBZqKTCkyQNCfgjOaomz5zRqrSLqImSORto2GUVIiY'
+2026-07-04 22:11:39,046 - __main__ - INFO - Processing email: ('Re:Dear sir/madam', None) from ('Joan Jebet <joanngulat@gmail.com>', None)
+2026-07-04 22:11:39,046 - __main__ - ERROR - Error processing email ('TECHNICAL SALES ENGINEER OPPORTUNITY', None): command: SEARCH => unexpected response: b'NiZIlqp8r6I3oqS+AIMKMhwPyPWyLHU1SZCgtcfowIAJEmWi2qK2hXYJklmuu+jYITFBYnVJjwzr'
+2026-07-04 22:11:39,046 - __main__ - INFO - Processing email: ('', None) from ('Eugene Adika <adikaeugene33@gmail.com>', None)
+2026-07-04 22:11:39,046 - __main__ - INFO - Processing email: (b'Application for Research & Biotechnology Opportunities \xe2\x80\x93 Ridhi N. Bhudia', 'utf-8') from ('Ridhi Bhudia <ridhibhudia07@gmail.com>', None)
+2026-07-04 22:11:39,046 - __main__ - ERROR - Error processing email ('Re:Dear sir/madam', None): command: SEARCH => unexpected response: b'v2GhBkmfA81E8RuYIGlOwBnNsQPIzBmpSruImiCRt42GUVIhbSEwQbLUHi4qeiM2hxFgUEGG4wC5'
+2026-07-04 22:11:39,046 - __main__ - ERROR - Error processing email ('', None): command: SEARCH => unexpected response: b'aZ4GWaBJggStPUYvIUyQKBPVFrUttEuQzHLdRccOmZ2kWDRIgJ2kUIOkz4Fm0rsCqkHSmIC3YBZ7'
+2026-07-04 22:11:39,046 - __main__ - ERROR - Error processing email (b'Application for Research & Biotechnology Opportunities \xe2\x80\x93 Ridhi N. Bhudia', 'utf-8'): command: SEARCH => unexpected response: b'Wc2bkaq0i+gaJNK20UDVBxENjjBBstRuZCp6I7Y5E2BQQYbjAblWFuWmJgkStPYYXfEwQaJMVFvU'
+2026-07-04 22:11:39,047 - __main__ - INFO - Processing complete. Processed: 0, Duplicates: 0, Errors: 0
+2026-07-04 22:11:39,047 - __main__ - INFO - Processing CV files from: CVs/
+2026-07-04 22:11:39,047 - __main__ - INFO - Generating dashboard...
+2026-07-04 22:11:39,049 - __main__ - INFO - Dashboard saved to: output/dashboard_20260704_221139.json
+2026-07-04 22:28:01,340 - database - INFO - Database initialized successfully
+2026-07-04 22:28:01,340 - gemini - INFO - Using OpenRouter API
+2026-07-04 22:28:01,340 - gemini - INFO - Using OpenRouter API
+2026-07-04 22:28:01,340 - __main__ - INFO - ATS Processor initialized
+2026-07-04 22:28:01,340 - __main__ - INFO - Starting email processing...
+2026-07-04 22:28:02,736 - email_client - INFO - Connected to email server: mail.accordmedical.co.ke:993
+2026-07-04 22:28:32,519 - email_client - INFO - Found 20 job application emails out of 301 total
+2026-07-04 22:28:37,784 - email_client - INFO - Successfully fetched 20 job application emails
+2026-07-04 22:28:37,784 - __main__ - INFO - Processing email: ('Fwd: APPLICATION FOR BIOMEDICAL ENGINEERING SALES PERSON', None) from ('Accord Medical Supplies Ltd <accordmedsupplies@gmail.com>', None)
+2026-07-04 22:28:37,785 - __main__ - INFO - Processing email: ('Biomedical Technical Sales Executive | Healthcare IT Specialist |\r\n Clinical Technology Consultant.', None) from ('Tito Njuhingu <tnjuhingu@gmail.com>', None)
+2026-07-04 22:28:37,785 - __main__ - INFO - Processing email: ('APPLICATION FOR THE TECHNICAL SALES ENGINEER - SALOME NJOROGE', None) from ('Sally Njoroge <sallywambo83@gmail.com>', None)
+2026-07-04 22:28:37,786 - __main__ - INFO - Processing email: ('Application for Technical Sales Engineer', None) from ('Lawrence Kemboi <kemboilawrence80@gmail.com>', None)
+2026-07-04 22:28:37,964 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'ed: from mail-yx1-f54.google.com ([74.125.224.54])'
+2026-07-04 22:28:37,965 - __main__ - ERROR - Error fetching email attachments: command: FETCH => unexpected response: b'1pAM_OGFWU5hx6_5Gr+g@mail.gmail.com>'
+2026-07-04 22:28:37,965 - __main__ - WARNING - No downloadable attachments found in email: ('APPLICATION FOR THE TECHNICAL SALES ENGINEER - SALOME NJOROGE', None)
+2026-07-04 22:28:37,965 - __main__ - ERROR - Error fetching email attachments: command: FETCH => unexpected response: b'rdmedsupplies@gmail.com>*'
+2026-07-04 22:28:37,965 - __main__ - WARNING - No downloadable attachments found in email: ('Fwd: APPLICATION FOR BIOMEDICAL ENGINEERING SALES PERSON', None)
+2026-07-04 22:28:37,965 - __main__ - INFO - Processing email: ('Application for the Position of Technical Sales Engineer', None) from ('Juliet Muthoni <julietmuthoni325@gmail.com>', None)
+2026-07-04 22:28:37,966 - __main__ - WARNING - No downloadable attachments found in email: ('Biomedical Technical Sales Executive | Healthcare IT Specialist |\r\n Clinical Technology Consultant.', None)
+2026-07-04 22:28:37,966 - __main__ - INFO - Processing email: ('APPLICATION FOR TECHNICAL SALES ENGINEER', None) from ('Audrey Faith <audreyachi16@gmail.com>', None)
+2026-07-04 22:28:37,966 - __main__ - INFO - Processing email: ('Applying for Technical sales Engineer', None) from ('James Karu <karu8090@gmail.com>', None)
+2026-07-04 22:28:38,021 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b''
+2026-07-04 22:28:38,021 - __main__ - WARNING - No downloadable attachments found in email: ('Application for Technical Sales Engineer', None)
+2026-07-04 22:28:38,021 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'Kenya</div><div dir=3D"auto">Mobile: +254 720 687 790</='
+2026-07-04 22:28:38,021 - __main__ - INFO - Processing email: ('TECHNICAL SALES ENGINEER', None) from ('Mercy Otieno <mercyotieno225@gmail.com>', None)
+2026-07-04 22:28:38,022 - __main__ - WARNING - No downloadable attachments found in email: ('Application for the Position of Technical Sales Engineer', None)
+2026-07-04 22:28:38,022 - __main__ - INFO - Processing email: ('Application for technical sales engineer position', None) from ('Peris <peris3442@gmail.com>', None)
+2026-07-04 22:28:38,022 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'lthcare innova='
+2026-07-04 22:28:38,022 - __main__ - WARNING - No downloadable attachments found in email: ('APPLICATION FOR TECHNICAL SALES ENGINEER', None)
+2026-07-04 22:28:38,022 - __main__ - INFO - Processing email: ('APPLICATION FOR BIOMEDICAL TELESALES POST', None) from ('Watson Koech <watsonkoech4@gmail.com>', None)
+2026-07-04 22:28:38,023 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'tion can contribute to the continued success of Accord Medical. Thank you f='
+2026-07-04 22:28:38,023 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'vWHE2WjpZZjVBZFxqZXAzMCdYYjdvUmtxSXVgME5kLkVWLDA0N0VnXDY8N2BsZ1wsQzcu'
+2026-07-04 22:28:38,023 - __main__ - WARNING - No downloadable attachments found in email: ('TECHNICAL SALES ENGINEER', None)
+2026-07-04 22:28:38,023 - __main__ - WARNING - No downloadable attachments found in email: ('Applying for Technical sales Engineer', None)
+2026-07-04 22:28:38,023 - __main__ - INFO - Processing email: ('TECHNICAL SALES ENGINEER', None) from ('elosy kinya <kinyaelosymuriungi@gmail.com>', None)
+2026-07-04 22:28:38,023 - __main__ - INFO - Processing email: ('Application for the position of Technical Sales Engineer', None) from ('Purity Wanjiru <puritywanjiru3424@gmail.com>', None)
+2026-07-04 22:28:38,223 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'087a6mbKeD2I2+A16bBqypuLiXeiR7C3JVGv6u+nO4tU724e6MF3hj6'
+2026-07-04 22:28:38,224 - __main__ - ERROR - Error fetching email attachments: command: FETCH => unexpected response: b'uture email.  If you have any questions, see'
+2026-07-04 22:28:38,224 - __main__ - WARNING - No downloadable attachments found in email: ('Application for technical sales engineer position', None)
+2026-07-04 22:28:38,224 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'/Y9s0+SmWQS'
+2026-07-04 22:28:38,224 - __main__ - WARNING - No downloadable attachments found in email: ('APPLICATION FOR BIOMEDICAL TELESALES POST', None)
+2026-07-04 22:28:38,224 - __main__ - INFO - Processing email: ('Technical sales engineer job', None) from ('Edith Cheptooh <edithcheptooh871@gmail.com>', None)
+2026-07-04 22:28:38,225 - __main__ - WARNING - No downloadable attachments found in email: ('TECHNICAL SALES ENGINEER', None)
+2026-07-04 22:28:38,225 - __main__ - INFO - Processing email: ('APPLICATION FOR A BIOMEDICAL ENGINEERING INTERNSHIP', None) from ('josia tomkomora <josiatomkomora@gmail.com>', None)
+2026-07-04 22:28:38,226 - __main__ - INFO - Processing email: ('Application for Technical Sales Engineer Position', None) from ('Carl Njeke <njekecarl@gmail.com>', None)
+2026-07-04 22:28:38,226 - __main__ - WARNING - No attachments found in email: ('Application for Technical Sales Engineer Position', None)
+2026-07-04 22:28:38,226 - __main__ - INFO - Processing email: ('Application for Technical Sales Engineer', None) from ('Carl Njeke <njekecarl@gmail.com>', None)
+2026-07-04 22:31:53,324 - database - INFO - Database initialized successfully
+2026-07-04 22:31:53,324 - gemini - INFO - Using OpenRouter API
+2026-07-04 22:31:53,324 - gemini - INFO - Using OpenRouter API
+2026-07-04 22:31:53,325 - main - INFO - ATS Processor initialized
+2026-07-04 22:31:54,265 - email_client - INFO - Connected to email server: mail.accordmedical.co.ke:993
+2026-07-04 22:31:54,265 - main - INFO - Starting email processing...
+2026-07-04 22:31:55,162 - email_client - INFO - Connected to email server: mail.accordmedical.co.ke:993
+2026-07-04 22:32:21,069 - email_client - INFO - Found 50 job application emails out of 244 total
+2026-07-04 22:33:23,305 - email_client - INFO - Successfully fetched 50 job application emails
+2026-07-04 22:33:23,306 - main - INFO - Processing email: ('TECHNICAL SALES ENGINEER', None) from ('Trevor Mbuva <trevormbuva@gmail.com>', None)
+2026-07-04 22:33:23,307 - main - INFO - Processing email: ('Application for Technical sales engineer', None) from ('robert kibwana <robertkiwana@gmail.com>', None)
+2026-07-04 22:33:23,307 - main - INFO - Processing email: ('Hazel Saoke Medical Engineering Technologist 1(1).pdf', None) from ('Hazel Saoke <hazelsaoke@gmail.com>', None)
+2026-07-04 22:33:23,308 - main - INFO - Processing email: ('Biomedical engineering technician.pdf', None) from ('Hazel Saoke <hazelsaoke@gmail.com>', None)
+2026-07-04 22:33:23,486 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'PF7CDw1MGca//AQaJUpM03EhV4'
+2026-07-04 22:33:23,486 - main - ERROR - Error fetching email attachments: command: FETCH => unexpected response: b' similar future email.  If you have any questions, see'
+2026-07-04 22:33:23,486 - main - WARNING - No downloadable attachments found in email: ('Biomedical engineering technician.pdf', None)
+2026-07-04 22:33:23,486 - main - ERROR - Error fetching email attachments: command: FETCH => unexpected response: b'AAAA4QIAAAsACAJfcmVscy8ucmVscyCiBAIooAAC'
+2026-07-04 22:33:23,486 - main - WARNING - No downloadable attachments found in email: ('TECHNICAL SALES ENGINEER', None)
+2026-07-04 22:33:23,486 - main - INFO - Processing email: ('MEDICAL ENGINEERING TECHNICIAN', None) from ('Hazel Saoke <hazelsaoke@gmail.com>', None)
+2026-07-04 22:33:23,486 - main - WARNING - No downloadable attachments found in email: ('Application for Technical sales engineer', None)
+2026-07-04 22:33:23,487 - main - INFO - Processing email: ('TECHNICAL SALES ENGINEER - DICKENS ODHIAMBO', None) from ('Dickens Oga <ogadickens@gmail.com>', None)
+2026-07-04 22:33:23,487 - main - INFO - Processing email: ('Medical engineering technician', None) from ('Hazel Saoke <hazelsaoke@gmail.com>', None)
+2026-07-04 22:33:23,545 - main - WARNING - No downloadable attachments found in email: ('Hazel Saoke Medical Engineering Technologist 1(1).pdf', None)
+2026-07-04 22:33:23,545 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'N0ZW1JbmZvIDggMCBSIC9DSURUb0dJRE1hcC9JZGVudGl0eS9EVyAxMDAwL0Zv'
+2026-07-04 22:33:23,545 - main - INFO - Processing email: ('Application for technical Sales Engineer', None) from ('Amboye Ferdinard <amboyeferdinard5@gmail.com>', None)
+2026-07-04 22:33:23,545 - main - WARNING - No downloadable attachments found in email: ('MEDICAL ENGINEERING TECHNICIAN', None)
+2026-07-04 22:33:23,545 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'VudGl0eSkvUmVnaXN0cnko'
+2026-07-04 22:33:23,545 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'UmRintx2Ami/Dc5lsZnnatKr4rIPaBkyWAJux6t6WjkWkZScJ1IGFHrEgf86'
+2026-07-04 22:33:23,545 - main - INFO - Processing email: ('APPLICATION FOR TECHNICAL SALES ENGINEER POSITION', None) from ('Boaz Oichoe <boazoichoe55@gmail.com>', None)
+2026-07-04 22:33:23,546 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'W4FSOCgo3kk2lIJSh6S8iyaFyvqAlH40FikSlYWkjK4eMMFGMxws6ixgOHwGAOMzPgTwchxLYCZx'
+2026-07-04 22:33:23,546 - main - WARNING - No downloadable attachments found in email: ('TECHNICAL SALES ENGINEER - DICKENS ODHIAMBO', None)
+2026-07-04 22:33:23,546 - main - WARNING - No downloadable attachments found in email: ('Medical engineering technician', None)
+2026-07-04 22:33:23,546 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'szUwu+l9MUNG3o9YmfmnHJ4YgSoVuCcYjFY8bbF/wqyEViyLJRMqgbBMjnkms8bmaRpLoM2TIDJj'
+2026-07-04 22:33:23,546 - main - WARNING - No downloadable attachments found in email: ('Application for technical Sales Engineer', None)
+2026-07-04 22:33:23,546 - main - INFO - Processing email: ('Application for technical sales Engineer', None) from ('Nelis Nanjala <nelisnanjala00@gmail.com>', None)
+2026-07-04 22:33:23,546 - main - INFO - Processing email: ('Technical Sales Engineer', None) from ('Letting Godwin <lettinggodwin98@gmail.com>', None)
+2026-07-04 22:33:23,546 - main - WARNING - No downloadable attachments found in email: ('APPLICATION FOR TECHNICAL SALES ENGINEER POSITION', None)
+2026-07-04 22:33:23,546 - main - INFO - Processing email: ('APPLICATION FOR THE TECHNICAL SALES ROLE', None) from ('Kamau Nyoro <kamaunyoro74@gmail.com>', None)
+2026-07-04 22:33:23,546 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'WbJkBSpLzHoljawAzxRUawrVfUpIwRftIOOMP/oLd5/nfYbbj8722HSC5Z6hrjNMwK4aWguz+FOD'
+2026-07-04 22:33:23,547 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'WHFWgMXyLDCZmHFW5DosKF4ey+0GKe/KAhOClDvPiRUR6YDmieeG/DksBXc4C9pVdpj5AcUzgapa'
+2026-07-04 22:33:23,547 - main - INFO - Processing email: ('Application for the Position of Technical Sales Engineer', None) from ('Joshua Tomno <jshtomno@gmail.com>', None)
+2026-07-04 22:33:23,547 - main - WARNING - No downloadable attachments found in email: ('Application for technical sales Engineer', None)
+2026-07-04 22:33:23,547 - main - WARNING - No downloadable attachments found in email: ('Technical Sales Engineer', None)
+2026-07-04 22:33:23,547 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'1GCXXOAVyfJMxFpxWGsEF0PsJSd5kq1lAWjj7kmws1jnKDxV+KuURnmfWtFYf5ptkBKP9acbpBzN'
+2026-07-04 22:33:23,547 - main - INFO - Processing email: ('Application for Employment as Technical Sale Engineer.', None) from ('Ohene Amoah Boahen Edmund <eng.o.a.b.edmund@gmail.com>', None)
+2026-07-04 22:33:23,547 - main - INFO - Processing email: ('Application for Employment as Technical Sale Engineer.', None) from ('Ohene Amoah Boahen Edmund <eng.o.a.b.edmund@gmail.com>', None)
+2026-07-04 22:33:23,547 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'buZ3O//EppGDy5Csf8cSYkySB9DwiWjoQ6yVzS2kkif3kDX4jEZASqxCglsqj5qFuP1GPDXzR033'
+2026-07-04 22:33:23,547 - main - WARNING - No downloadable attachments found in email: ('APPLICATION FOR THE TECHNICAL SALES ROLE', None)
+2026-07-04 22:33:23,547 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'0X63JoAu4m5EVBuu5zHc3gtJiZrHgNNEn06DFLVBypviNuJhpcQN0YCkArfO3Y9RERbj0RVml8kD'
+2026-07-04 22:33:23,547 - main - WARNING - No downloadable attachments found in email: ('Application for the Position of Technical Sales Engineer', None)
+2026-07-04 22:33:23,547 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'0hS3q06/jByPo5FhWNsqGEGipVKTB6VEeLK4oaigJ4sDs0pFLP6LP4IOy4m2wZ9DvAqCU6TSRjuT'
+2026-07-04 22:33:23,548 - main - INFO - Processing email: ('Application for the Technical Sales Engineer Position', None) from ('Ivet Kutner <ivykutner@gmail.com>', None)
+2026-07-04 22:33:23,548 - main - WARNING - No downloadable attachments found in email: ('Application for Employment as Technical Sale Engineer.', None)
+2026-07-04 22:33:23,548 - main - INFO - Processing email: ('APPLICATION FOR TECHNICAL SALES ENGINEER POSITION', None) from ('IAN KIPTOO <iankiptoo79@gmail.com>', None)
+2026-07-04 22:33:23,548 - main - WARNING - No downloadable attachments found in email: ('Application for Employment as Technical Sale Engineer.', None)
+2026-07-04 22:33:23,548 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'TDcIUpJHOxuAIjMYG1dAAEMAOzn8zbSkDUtgJhmUHMYykXDDYOU6mV9+8206scpdpg5lG0chwuAl'
+2026-07-04 22:33:23,548 - main - INFO - Processing email: ('Technical sales engineer', None) from ('Trizah Atieno <trizareiza89@gmail.com>', None)
+2026-07-04 22:33:23,548 - main - WARNING - No attachments found in email: ('APPLICATION FOR TECHNICAL SALES ENGINEER POSITION', None)
+2026-07-04 22:33:23,548 - main - INFO - Processing email: ('Resume for your reference', None) from ('Dharmendra Kumar Yadav <dkumaryadav3187@gmail.com>', None)
+2026-07-04 22:33:23,548 - main - WARNING - No downloadable attachments found in email: ('Application for the Technical Sales Engineer Position', None)
+2026-07-04 22:33:23,548 - main - WARNING - No attachments found in email: ('Technical sales engineer', None)
+2026-07-04 22:33:23,548 - main - INFO - Processing email: ('Technical Sales Engineer', None) from ('Ambrose kiteki <ambrosekiteki@gmail.com>', None)
+2026-07-04 22:33:23,548 - main - WARNING - No attachments found in email: ('Resume for your reference', None)
+2026-07-04 22:33:23,548 - main - INFO - Processing email: ('APPLICATION FOR BIOMEDICAL ENGINEER POSITION', None) from ('CHARLTONE JUMA <jumacharltone@gmail.com>', None)
+2026-07-04 22:33:23,548 - main - INFO - Processing email: ('Biomedical /sales engineer job application', None) from ('Rodrick Tom <rodrickt161@gmail.com>', None)
+2026-07-04 22:33:23,549 - main - INFO - Processing email: ('Application for a job as technical sale engineer', None) from ('Dennis Yegon <dennischeruiyotyegon@gmail.com>', None)
+2026-07-04 22:33:23,549 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'P54nqV3uUzYDfoxroT5lc4MyWbLQh/ouDfhZs0UtvcZa60TZJp19L1LK9/qZWn4IyW0aoi3UByZs'
+2026-07-04 22:33:23,549 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'SA2Z2P7EltqqxNqwMct7bG3MckDAWj9pRsZqE69oJmnODb6nPjRwpU/IucEB3oabhXoj/Q2pbprB'
+2026-07-04 22:33:23,549 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'AUTM6ZZN6HdNG8GPzzarIPZd6/bQxz0wEUR+sJXw6ZT9Ce6dQn8H9k7oBtSH7Octv8mEpTsDNvR3'
+2026-07-04 22:33:23,549 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'2NqGvn/ASptb6UTmf9I05m0NCmVuZHN0cmVhbQ0KZW5kb2JqDQozMCAwIG9iag0KPDwvQXV0aG9y'
+2026-07-04 22:33:23,549 - main - WARNING - No downloadable attachments found in email: ('Technical Sales Engineer', None)
+2026-07-04 22:33:23,549 - main - WARNING - No downloadable attachments found in email: ('APPLICATION FOR BIOMEDICAL ENGINEER POSITION', None)
+2026-07-04 22:33:23,549 - main - WARNING - No downloadable attachments found in email: ('Application for a job as technical sale engineer', None)
+2026-07-04 22:33:23,549 - main - WARNING - No downloadable attachments found in email: ('Biomedical /sales engineer job application', None)
+2026-07-04 22:33:23,549 - main - INFO - Processing email: ('Application for Technical Sales Engineer Position', None) from ('Omanga Prestford <omangaprestford@gmail.com>', None)
+2026-07-04 22:33:23,549 - main - INFO - Processing email: ('Application for a technical sales engineer position.', None) from ('Joan Jepkemei <joannematelong@gmail.com>', None)
+2026-07-04 22:33:23,549 - main - INFO - Processing email: ('Jescah cv', None) from ('JESCAH CHEPKEMOI <jescahchepkemoi5@gmail.com>', None)
+2026-07-04 22:33:23,549 - main - INFO - Processing email: ('APPLICATION FOR THE POSITION OF TECHNICAL SALES ENGINEER', None) from (b'Phyllis Ny\xc3\xa5nch\xc3\xa5m\xc3\xa5', 'utf-8')
+2026-07-04 22:33:23,550 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'KHB5dGhvbi1kb2N4KS9DcmVhdGlvbkRhdGUoRDoyMDI1MTAxNDE0MTYwNyswMycwMCcpL0NyZWF0'
+2026-07-04 22:33:23,550 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'b3Io/v8ATQBpAGMAcgBvAHMAbwBmAHQArgAgAFcAbwByAGQAIAAyADAAMQA5KS9Nb2REYXRlKEQ6'
+2026-07-04 22:33:23,550 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'MjAyNTEwMTQxNDE2MDcrMDMnMDAnKS9Qcm9kdWNlcij+/wBNAGkAYwByAG8AcwBvAGYAdACuACAA'
+2026-07-04 22:33:23,550 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'VwBvAHIAZAAgADIAMAAxADkpPj4NCmVuZG9iag0KMzEgMCBvYmoNCjw8L0tbIDM1IDAgUiBdL1Bh'
+2026-07-04 22:33:23,550 - main - WARNING - No downloadable attachments found in email: ('Application for Technical Sales Engineer Position', None)
+2026-07-04 22:33:23,550 - main - WARNING - No downloadable attachments found in email: ('Application for a technical sales engineer position.', None)
+2026-07-04 22:33:23,550 - main - WARNING - No downloadable attachments found in email: ('Jescah cv', None)
+2026-07-04 22:33:23,550 - main - WARNING - No downloadable attachments found in email: ('APPLICATION FOR THE POSITION OF TECHNICAL SALES ENGINEER', None)
+2026-07-04 22:33:23,550 - main - INFO - Processing email: ("BETTY'S CV", None) from ('betty cheruiyot <bettycheruiyot38@gmail.com>', None)
+2026-07-04 22:33:23,550 - main - INFO - Processing email: ('RE APPLICATION FOR TECHNICAL SALES ENGINEER .pdf', None) from ('cheruiyot geoffrey <cherugeo18@gmail.com>', None)
+2026-07-04 22:33:23,550 - main - INFO - Processing email: ('APPLICATION FOR TECHNICAL SALES ENGINEER -EMMANUEL KOECH', None) from ('Manu Koech <koechmanu2@gmail.com>', None)
+2026-07-04 22:33:23,550 - main - INFO - Processing email: ('RESLY CV(1).docx', None) from ('Resly Anyuo <anyuoresly@gmail.com>', None)
+2026-07-04 22:33:23,551 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'cmVudFRyZWUgMzMgMCBSIC9QYXJlbnRUcmVlTmV4dEtleSAyL1JvbGVNYXAgMzIgMCBSIC9UeXBl'
+2026-07-04 22:33:23,551 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'L1N0cnVjdFRyZWVSb290Pj4NCmVuZG9iag0KMzIgMCBvYmoNCjw8L0Fubm90YXRpb24vU2VjdC9B'
+2026-07-04 22:33:23,551 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'cnRpZmFjdC9TZWN0L0NoYXJ0L1NlY3QvQ2hhcnRzaGVldC9QYXJ0L0NvbW1lbnRBbmNob3IvU3Bh'
+2026-07-04 22:33:23,551 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'bi9EaWFncmFtL0ZpZ3VyZS9EaWFsb2dzaGVldC9QYXJ0L0VuZG5vdGUvTm90ZS9Gb290ZXIvU2Vj'
+2026-07-04 22:33:23,551 - main - WARNING - No downloadable attachments found in email: ("BETTY'S CV", None)
+2026-07-04 22:33:23,551 - main - WARNING - No downloadable attachments found in email: ('RE APPLICATION FOR TECHNICAL SALES ENGINEER .pdf', None)
+2026-07-04 22:33:23,551 - main - WARNING - No downloadable attachments found in email: ('APPLICATION FOR TECHNICAL SALES ENGINEER -EMMANUEL KOECH', None)
+2026-07-04 22:33:23,551 - main - WARNING - No downloadable attachments found in email: ('RESLY CV(1).docx', None)
+2026-07-04 22:33:23,551 - main - INFO - Processing email: ('Application for Technical Sales Engineer Position', None) from ('Kosgei Ronald <kosgeironald542@gmail.com>', None)
+2026-07-04 22:33:23,551 - main - INFO - Processing email: ('Application for Technical Sales Engineer.', None) from ('Ean Sian <eansian7@gmail.com>', None)
+2026-07-04 22:33:23,551 - main - INFO - Processing email: ('Technical Sales Engineer Job application', None) from ('Amos Mwangi <mwangimainaamos99@gmail.com>', None)
+2026-07-04 22:33:23,551 - main - INFO - Processing email: ('Technical sales Job application', None) from ('richard gekonge <richardgekonge@gmail.com>', None)
+2026-07-04 22:33:23,551 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'dC9Gb290bm90ZS9Ob3RlL0hlYWRlci9TZWN0L0lubGluZVNoYXBlL1NlY3QvTWFjcm9zaGVldC9Q'
+2026-07-04 22:33:23,552 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'YXJ0L05vdGVzL1NlY3QvU2xpZGUvU2VjdC9UZXh0Ym94L1NlY3QvVGl0bGUvSDEvV29ya2Jvb2sv'
+2026-07-04 22:33:23,552 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'RG9jdW1lbnQvV29ya3NoZWV0L1BhcnQ+Pg0KZW5kb2JqDQozMyAwIG9iag0KPDwvTnVtc1sgMCAz'
+2026-07-04 22:33:23,552 - main - WARNING - No downloadable attachments found in email: ('Application for Technical Sales Engineer Position', None)
+2026-07-04 22:33:23,552 - main - WARNING - No downloadable attachments found in email: ('Application for Technical Sales Engineer.', None)
+2026-07-04 22:33:23,552 - main - WARNING - No downloadable attachments found in email: ('Technical Sales Engineer Job application', None)
+2026-07-04 22:33:23,552 - main - INFO - Processing email: ('Application Letter', None) from ('Wangari Waithaka <waithakabilhahwangari@gmail.com>', None)
+2026-07-04 22:33:23,552 - main - INFO - Processing email: ('job application for technical sales engineer', None) from ('Dianah Jeloo <dianahjeloo@gmail.com>', None)
+2026-07-04 22:33:23,552 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'NyAwIFIgIDEgNTQgMCBSIF0+Pg0KZW5kb2JqDQozNSAwIG9iag0KPDwvS1sgMzYgMCBSICAzOSAw'
+2026-07-04 22:33:23,552 - main - INFO - Processing email: ('Technical sales engineer', None) from ('Emmaculate Chepkos <chepkosemmaculate@gmail.com>', None)
+2026-07-04 22:33:23,552 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'IFIgIDQwIDAgUiAgNDEgMCBSICA0MiAwIFIgIDQzIDAgUiAgNDQgMCBSICA0NSAwIFIgIDQ2IDAg'
+2026-07-04 22:33:23,552 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'UiAgNDcgMCBSICA0OCAwIFIgIDQ5IDAgUiAgNTAgMCBSICA1MSAwIFIgIDUyIDAgUiAgNTMgMCBS'
+2026-07-04 22:33:23,553 - main - WARNING - No downloadable attachments found in email: ('Technical sales Job application', None)
+2026-07-04 22:33:23,553 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'ICA1NSAwIFIgIDU2IDAgUiAgNTcgMCBSICA1OCAwIFIgIDU5IDAgUiAgNjAgMCBSICA2MSAwIFIg'
+2026-07-04 22:33:23,553 - main - WARNING - No downloadable attachments found in email: ('Application Letter', None)
+2026-07-04 22:33:23,553 - main - WARNING - No downloadable attachments found in email: ('job application for technical sales engineer', None)
+2026-07-04 22:33:23,553 - main - INFO - Processing email: ('Application for the Position of Technical Sales Engineer .', None) from ('Alex Ochieng <alexochieng995@gmail.com>', None)
+2026-07-04 22:33:23,553 - main - WARNING - No downloadable attachments found in email: ('Technical sales engineer', None)
+2026-07-04 22:33:23,553 - main - INFO - Processing email: ('Subject: Application for Technical Sales Engineer', None) from ('Millicent Weksa <millieweksa20@gmail.com>', None)
+2026-07-04 22:33:23,553 - main - INFO - Processing email: (b'Application for Technical Sales Engineer Position \xe2\x80\x93 Ireri Christine', 'utf-8') from ('Christine Ireri <irerichristie@gmail.com>', None)
+2026-07-04 22:33:23,553 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'IDYyIDAgUiAgNjMgMCBSICA2NCAwIFIgXS9QIDMxIDAgUiAvUy9Eb2N1bWVudC9UeXBlL1N0cnVj'
+2026-07-04 22:33:23,553 - main - INFO - Processing email: ('Technical sales person', None) from ('Priscilla Wangari <priscillawangari2018@gmail.com>', None)
+2026-07-04 22:33:23,554 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'dEVsZW0+Pg0KZW5kb2JqDQozNiAwIG9iag0KPDwvS1sgMF0vUCAzNSAwIFIgL1BnIDMgMCBSIC9T'
+2026-07-04 22:33:23,554 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'L1RpdGxlL1R5cGUvU3RydWN0RWxlbT4+DQplbmRvYmoNCjM3IDAgb2JqDQpbIDM2IDAgUiAzOSAw'
+2026-07-04 22:33:23,554 - main - WARNING - No downloadable attachments found in email: ('Application for the Position of Technical Sales Engineer .', None)
+2026-07-04 22:33:23,554 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'IFIgNDAgMCBSIDQxIDAgUiA0MiAwIFIgNDMgMCBSIDQ0IDAgUiA0NSAwIFIgNDYgMCBSIDQ3IDAg'
+2026-07-04 22:33:23,554 - main - WARNING - No downloadable attachments found in email: ('Subject: Application for Technical Sales Engineer', None)
+2026-07-04 22:33:23,554 - main - WARNING - No downloadable attachments found in email: (b'Application for Technical Sales Engineer Position \xe2\x80\x93 Ireri Christine', 'utf-8')
+2026-07-04 22:33:23,554 - main - INFO - Processing email: ('Application for biomedical sales engineer', None) from ('eddymasinde2 <eddymasinde2@gmail.com>', None)
+2026-07-04 22:33:23,554 - main - WARNING - No downloadable attachments found in email: ('Technical sales person', None)
+2026-07-04 22:33:23,554 - main - INFO - Processing email: ('APPLICATION FOR JOB AS A TECHNICAL SALES ENGINEER', None) from ('Omwenga Mayaka <omwengamayaka@gmail.com>', None)
+2026-07-04 22:33:23,554 - main - INFO - Processing email: ('APPLICATION FOR THE BIOMEDICAL ENGINEER POSITION', None) from ('kiplimo joel <kiplimojoel802@gmail.com>', None)
+2026-07-04 22:33:23,554 - main - INFO - Processing email: ('Application for job in technical sales engineer', None) from ('Janet Syombua <janetsyombua1024@gmail.com>', None)
+2026-07-04 22:33:23,554 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'UiA0OCAwIFIgNDkgMCBSIDUwIDAgUiA1MSAwIFIgNTIgMCBSXQ0KZW5kb2JqDQozOSAwIG9iag0K'
+2026-07-04 22:33:23,555 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'PDwvS1sgMV0vUCAzNSAwIFIgL1BnIDMgMCBSIC9TL1AvVHlwZS9TdHJ1Y3RFbGVtPj4NCmVuZG9i'
+2026-07-04 22:33:23,555 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'ag0KNDAgMCBvYmoNCjw8L0tbIDJdL1AgMzUgMCBSIC9QZyAzIDAgUiAvUy9QL1R5cGUvU3RydWN0'
+2026-07-04 22:33:23,555 - main - WARNING - No downloadable attachments found in email: ('Application for biomedical sales engineer', None)
+2026-07-04 22:33:23,555 - main - WARNING - No downloadable attachments found in email: ('APPLICATION FOR JOB AS A TECHNICAL SALES ENGINEER', None)
+2026-07-04 22:33:23,555 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'RWxlbT4+DQplbmRvYmoNCjQxIDAgb2JqDQo8PC9LWyAzXS9QIDM1IDAgUiAvUGcgMyAwIFIgL1Mv'
+2026-07-04 22:33:23,555 - main - WARNING - No downloadable attachments found in email: ('Application for job in technical sales engineer', None)
+2026-07-04 22:33:23,555 - main - INFO - Processing email: ('APPLICATION FOR TECHNICAL SALES ENGINEER POSITION', None) from ('Daisy Chepkurui <daychepkurui@gmail.com>', None)
+2026-07-04 22:33:23,555 - main - INFO - Processing email: ('Application for Technical Sales Engineer', None) from ('Teresia Njuguna <teresianjoki840@gmail.com>', None)
+2026-07-04 22:33:23,555 - main - WARNING - No downloadable attachments found in email: ('APPLICATION FOR THE BIOMEDICAL ENGINEER POSITION', None)
+2026-07-04 22:33:23,555 - main - INFO - Processing email: ('APPLICATION FOR THE TECHNICAL SALES ENGINEER POSITION IN YOUR COMPANY.', None) from ('Nelly <muendonelly@gmail.com>', None)
+2026-07-04 22:33:23,556 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'SDEvVHlwZS9TdHJ1Y3RFbGVtPj4NCmVuZG9iag0KNDIgMCBvYmoNCjw8L0tbIDRdL1AgMzUgMCBS'
+2026-07-04 22:33:23,556 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'IC9QZyAzIDAgUiAvUy9QL1R5cGUvU3RydWN0RWxlbT4+DQplbmRvYmoNCjQzIDAgb2JqDQo8PC9L'
+2026-07-04 22:33:23,556 - main - INFO - Processing email: ('Sales Engineer', None) from ('Ephrim Abok <baruchephrim18205@gmail.com>', None)
+2026-07-04 22:33:23,556 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'WyA1XS9QIDM1IDAgUiAvUGcgMyAwIFIgL1MvSDEvVHlwZS9TdHJ1Y3RFbGVtPj4NCmVuZG9iag0K'
+2026-07-04 22:33:23,556 - main - WARNING - No downloadable attachments found in email: ('APPLICATION FOR TECHNICAL SALES ENGINEER POSITION', None)
+2026-07-04 22:33:23,556 - main - WARNING - No downloadable attachments found in email: ('Application for Technical Sales Engineer', None)
+2026-07-04 22:33:23,556 - main - WARNING - No downloadable attachments found in email: ('APPLICATION FOR THE TECHNICAL SALES ENGINEER POSITION IN YOUR COMPANY.', None)
+2026-07-04 22:33:23,556 - main - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'NDQgMCBvYmoNCjw8L0tbIDZdL1AgMzUgMCBSIC9QZyAzIDAgUiAvUy9QL1R5cGUvU3RydWN0RWxl'
+2026-07-04 22:33:23,556 - main - WARNING - No downloadable attachments found in email: ('Sales Engineer', None)
+2026-07-04 22:33:23,557 - main - INFO - Processing complete. Processed: 0, Duplicates: 0, Errors: 0
+2026-07-04 22:33:23,557 - main - INFO - Generating dashboard...
+2026-07-04 22:33:23,559 - main - INFO - Dashboard saved to: output/dashboard_20260704_223323.json
+2026-07-04 22:33:41,298 - database - INFO - Database initialized successfully
+2026-07-04 22:33:41,298 - gemini - INFO - Using OpenRouter API
+2026-07-04 22:33:41,298 - gemini - INFO - Using OpenRouter API
+2026-07-04 22:33:41,298 - __main__ - INFO - ATS Processor initialized
+2026-07-04 22:33:41,298 - __main__ - INFO - Starting email processing...
+2026-07-04 22:33:42,297 - email_client - INFO - Connected to email server: mail.accordmedical.co.ke:993
+2026-07-04 22:34:03,819 - email_client - INFO - Found 20 job application emails out of 194 total
+2026-07-04 22:34:20,058 - email_client - INFO - Successfully fetched 20 job application emails
+2026-07-04 22:34:20,059 - __main__ - INFO - Processing email: ('RE: APPLICATION FOR TECHNICALSALES ENGINEER POSITION', None) from ('ELISHA NDUVA <elishanduva1234@gmail.com>', None)
+2026-07-04 22:34:20,059 - __main__ - INFO - Processing email: ('APPLICATION FOR BIOMEDICAL SALES AGENT POSITION', None) from ('nyambego ivy1 <nyambegoivy1@gmail.com>', None)
+2026-07-04 22:34:20,060 - __main__ - INFO - Processing email: ('Technical sales engineer', None) from ('Koros kiprono Calistus <kipronocalistus090@gmail.com>', None)
+2026-07-04 22:34:20,060 - __main__ - INFO - Processing email: ('APPLICATION FOR A TECHNICAL SALES ENGINEER POSITION', None) from ('geoffrey nyaga <geoffreymunene2021@gmail.com>', None)
+2026-07-04 22:34:20,237 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'by18vFaKddxKJ6kVeHQiy/wL7bSopW5ytPilxquX68='
+2026-07-04 22:34:20,238 - __main__ - ERROR - Error fetching email attachments: command: FETCH => unexpected response: b'000b07b01065524846b'
+2026-07-04 22:34:20,238 - __main__ - WARNING - No downloadable attachments found in email: ('APPLICATION FOR A TECHNICAL SALES ENGINEER POSITION', None)
+2026-07-04 22:34:20,238 - __main__ - WARNING - No downloadable attachments found in email: ('RE: APPLICATION FOR TECHNICALSALES ENGINEER POSITION', None)
+2026-07-04 22:34:20,238 - __main__ - ERROR - Error fetching email attachments: command: FETCH => unexpected response: b'fxHjDb'
+2026-07-04 22:34:20,238 - __main__ - INFO - Processing email: ('TECHNICAL SALES ENGINEER', None) from ('OBADIAH KIPRUTO <obadiahmus@gmail.com>', None)
+2026-07-04 22:34:20,239 - __main__ - INFO - Processing email: ('Application for Technical Sales Engineer Position', None) from ('Enock Lagat <lagatenock4@gmail.com>', None)
+2026-07-04 22:34:20,239 - __main__ - WARNING - No downloadable attachments found in email: ('APPLICATION FOR BIOMEDICAL SALES AGENT POSITION', None)
+2026-07-04 22:34:20,240 - __main__ - INFO - Processing email: ('APPLICATION FOR THE POST OF BIOMEDICAL ENGINEER', None) from ('Kassam <kasuresam02@gmail.com>', None)
+2026-07-04 22:34:20,299 - __main__ - WARNING - No downloadable attachments found in email: ('Technical sales engineer', None)
+2026-07-04 22:34:20,300 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'3/BbfwFbAaCDfqP/ABKSetyORRKZT5Mk/VlrMFWIl3gyL'
+2026-07-04 22:34:20,300 - __main__ - INFO - Processing email: ('Application For Technical Sales Engineer', None) from ('Austin Vialli <vialliaustin@gmail.com>', None)
+2026-07-04 22:34:20,300 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'KZW5k'
+2026-07-04 22:34:20,300 - __main__ - WARNING - No downloadable attachments found in email: ('TECHNICAL SALES ENGINEER', None)
+2026-07-04 22:34:20,300 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'mDJPE4Przsq1icqrjA1x6DifaJi9EhUok9URGF+DCgZ'
+2026-07-04 22:34:20,301 - __main__ - WARNING - No downloadable attachments found in email: ('Application for Technical Sales Engineer Position', None)
+2026-07-04 22:34:20,301 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'9E9'
+2026-07-04 22:34:20,301 - __main__ - INFO - Processing email: ('Subject: Application for Technical Sales Engineer', None) from ('Millicent Weksa <millieweksa20@gmail.com>', None)
+2026-07-04 22:34:20,301 - __main__ - WARNING - No downloadable attachments found in email: ('APPLICATION FOR THE POST OF BIOMEDICAL ENGINEER', None)
+2026-07-04 22:34:20,301 - __main__ - INFO - Processing email: ('APPLICATION FOR TECHNICAL SALES ENGINEER POSITION', None) from ('Alice Mutua <lisamutua009@gmail.com>', None)
+2026-07-04 22:34:20,301 - __main__ - WARNING - No downloadable attachments found in email: ('Application For Technical Sales Engineer', None)
+2026-07-04 22:34:20,302 - __main__ - INFO - Processing email: ('APPLICATION FOR TECHNICAL SALES ENGINEER', None) from ('Harriet Georges <georgesharriet2@gmail.com>', None)
+2026-07-04 22:34:20,302 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'HZQwLtYSJsFrWGIb6EgNdKQGOlIDHamBjtRAR2qgIzUsS7phWdJFIgY7TXtdZMKTVo32usiGoCdp'
+2026-07-04 22:34:20,302 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'H8YNguvDCmtDmEFb5NOTVhVtkVNzaMe046q1gjbOVAu6yMo4Wy7oIjNn0MZUL8RqvbC3pARTW1JS'
+2026-07-04 22:34:20,302 - __main__ - INFO - Processing email: ('Technical sales Engineering position.', None) from ('MOSES KIBET <moseskibetkemboi5@gmail.com>', None)
+2026-07-04 22:34:20,302 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'6LNPM9jjyZj5S/74UvEoHWrQ0Q06pkHHNui4og4fXg6p9epqM9XeH4o0yTU+XjE7+HT1SI8/bPhp'
+2026-07-04 22:34:20,302 - __main__ - WARNING - No downloadable attachments found in email: ('Subject: Application for Technical Sales Engineer', None)
+2026-07-04 22:34:20,302 - __main__ - WARNING - No downloadable attachments found in email: ('APPLICATION FOR TECHNICAL SALES ENGINEER POSITION', None)
+2026-07-04 22:34:20,303 - __main__ - WARNING - No attachments found in email: ('Technical sales Engineering position.', None)
+2026-07-04 22:34:20,303 - __main__ - WARNING - No downloadable attachments found in email: ('APPLICATION FOR TECHNICAL SALES ENGINEER', None)
+2026-07-04 22:34:20,303 - __main__ - INFO - Processing email: ('Application for Technical Sales Engineer', None) from ('FLORENCE OUMA <florenceatieno199@gmail.com>', None)
+2026-07-04 22:34:20,303 - __main__ - INFO - Processing email: ('RE. REQUEST FOR A JOB', None) from ('clare chepngetich <clare5chepngetich@gmail.com>', None)
+2026-07-04 22:34:20,303 - __main__ - INFO - Processing email: ('APPLICATION FOR TECHNICAL SALES ENGINEER POSITION', None) from ('Duddley Nyabuti <duddleynyabuti8@gmail.com>', None)
+2026-07-04 22:34:20,303 - __main__ - INFO - Processing email: ("Hello I'm biomedical engineering my name is esraa Mohammedzain", None) from ('esraa18561@yahoo.com', None)
+2026-07-04 22:34:20,303 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'zHFOrYZZlck1Dzpk0LEOWs1UCapM0h29KuoyVWdRq1Qq8JG0hnovs5XUtdTOfHjw8QPqllRtySHV'
+2026-07-04 22:34:20,303 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'kkSqnEV8sp4OVCWT1OxeoSrJpNxMoNJ2wYf/wwKlfDVQCWWLu8oJfVjBfNzKW8lCctOBoUoGPelV'
+2026-07-04 22:34:20,303 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'K+1KBpGZDgxlttMBTh0DQ7YaGKoveIdVz8cptWQMtew7VE4X/bAYvxku72/79ba4N6bKw6Q9waQa'
+2026-07-04 22:34:20,304 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'zySnm7TmpvsDvuEcm/TSppdOpiatcy4Zczo1acFyybRLpl2yko5YfIk5NknSJ0mfJH2S9FkyjRfS'
+2026-07-04 22:34:20,304 - __main__ - WARNING - No downloadable attachments found in email: ('Application for Technical Sales Engineer', None)
+2026-07-04 22:34:20,304 - __main__ - WARNING - No downloadable attachments found in email: ('RE. REQUEST FOR A JOB', None)
+2026-07-04 22:34:20,304 - __main__ - WARNING - No downloadable attachments found in email: ("Hello I'm biomedical engineering my name is esraa Mohammedzain", None)
+2026-07-04 22:34:20,304 - __main__ - WARNING - No downloadable attachments found in email: ('APPLICATION FOR TECHNICAL SALES ENGINEER POSITION', None)
+2026-07-04 22:34:20,304 - __main__ - INFO - Processing email: ('application for job', None) from ('Felicity Mwendwa <mwendwafelicity5@gmail.com>', None)
+2026-07-04 22:34:20,304 - __main__ - INFO - Processing email: ('Technical Sales Engineer', None) from ('Stephen <stepod82@gmail.com>', None)
+2026-07-04 22:34:20,304 - __main__ - INFO - Processing email: (b'Subject: Application for Technical Sales Engineer Position Dear Hiring Manager, I am writing to express my interest in the Technical Sales Engineer position advertised by Accord Medical Supplies Ltd\xe2\x81\xa0. I hold a Diploma in Medical Engineering and I am currently undertaking my internship at The Nairobi Hospital, where I have gained hands-on experience in the maintenance, troubleshooting, and management of medical equipment. Through this experience, I have developed strong technical knowledge, communication skills, and the ability to work effectively with healthcare professionals. I am particularly interested in this opportunity because it combines my technical background in medical engineering with my passion for customer engagement and problem-solving. I am confident that my skills and enthusiasm would enable me to contribute positively to your sales team and support clients in identifying solutions that meet their needs. Please find my CV attached for your consideration. I woul', 'utf-8') from ('PAULINE KUYA <paulinekuya254@gmail.com>', None)
+2026-07-04 22:34:20,304 - __main__ - INFO - Processing email: ('APPLICATION FOR THE SALES BIOMEDICAL ENGINEERING POSITION', None) from ('Beatrice Mumbi <mumbibeatrice37@gmail.com>', None)
+2026-07-04 22:34:20,304 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'eCGNF9J4qbjiG8exSeoxqcdcCuX8ljK3eWFOC/h4MZjavMiqvEemdWO8+UttlqcsT1mesn2d7ess'
+2026-07-04 22:34:20,305 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'r/PCn4OyE4CLTd+fDcO2OxtW/efFD77q43CdLjYIFX/lSz9+w1F6rOQev570P7cf+1+Csul3sLUe'
+2026-07-04 22:34:20,305 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'tn13wn9v11dPnQuIfht+duf95bZ73y+u+k16Zp2H5w/r1XLdn98sGCG/eLWGhcV2Oaxzf7Nd/rfA'
+2026-07-04 22:34:20,305 - __main__ - WARNING - No downloadable attachments found in email: ('application for job', None)
+2026-07-04 22:34:20,305 - __main__ - WARNING - No downloadable attachments found in email: ('Technical Sales Engineer', None)
+2026-07-04 22:34:20,305 - __main__ - ERROR - Error fetching email attachments: command: SEARCH => unexpected response: b'w9j7Mmy+fxuG70/k4jd3N32/ZZDb7vPicjPs9F/f4H+n/2a5WA3XOy/OV8urPPQomx4hdr1Z3Hbv'
+2026-07-04 22:34:20,305 - __main__ - WARNING - No downloadable attachments found in email: (b'Subject: Application for Technical Sales Engineer Position Dear Hiring Manager, I am writing to express my interest in the Technical Sales Engineer position advertised by Accord Medical Supplies Ltd\xe2\x81\xa0. I hold a Diploma in Medical Engineering and I am currently undertaking my internship at The Nairobi Hospital, where I have gained hands-on experience in the maintenance, troubleshooting, and management of medical equipment. Through this experience, I have developed strong technical knowledge, communication skills, and the ability to work effectively with healthcare professionals. I am particularly interested in this opportunity because it combines my technical background in medical engineering with my passion for customer engagement and problem-solving. I am confident that my skills and enthusiasm would enable me to contribute positively to your sales team and support clients in identifying solutions that meet their needs. Please find my CV attached for your consideration. I woul', 'utf-8')
+2026-07-04 22:34:20,305 - __main__ - WARNING - No downloadable attachments found in email: ('APPLICATION FOR THE SALES BIOMEDICAL ENGINEERING POSITION', None)
+2026-07-04 22:34:20,306 - __main__ - INFO - Processing complete. Processed: 0, Duplicates: 0, Errors: 0
+2026-07-04 22:34:20,306 - __main__ - INFO - Processing CV files from: CVs/
+2026-07-04 22:34:20,306 - __main__ - INFO - Generating dashboard...
+2026-07-04 22:34:20,308 - __main__ - INFO - Dashboard saved to: output/dashboard_20260704_223420.json

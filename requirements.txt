@@ -1,0 +1,13 @@
+# requirements.txt (UPDATED)
+# Core dependencies
+python-dotenv>=1.0.0
+google-genai>=0.2.0  # New Gemini SDK
+PyPDF2>=3.0.0
+python-docx>=1.0.0
+Pillow>=10.0.0
+python-magic>=0.4.27
+Flask>=3.0.0
+requests>=2.31.0
+
+# Optional dependencies for OCR
+pytesseract>=0.3.0
