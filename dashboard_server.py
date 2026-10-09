@@ -357,7 +357,7 @@ DASHBOARD_TEMPLATE = """
         `<li>${esc(item.degree || "")}${item.institution ? ", " + esc(item.institution) : ""} ${esc(item.year || "")}</li>`
       ).join("");
       const docs = (person.documents || []).map((item) =>
-        `<li><a href="/api/applicants/${person.id}/documents/${item.id}">${esc(item.kind_label || "Document")}</a> <span class="muted">${esc(item.file_name || "")}</span></li>`
+        `<li><a href="/api/applicants/${person.id}/documents/${item.id}" target="_blank" rel="noopener">${esc(item.kind_label || "Document")}</a> <span class="muted">${esc(item.file_name || "")}</span></li>`
       ).join("");
       const strengths = (person.strengths || []).map((item) => `<span class="pill">${esc(item)}</span>`).join("");
       const gaps = (person.gaps || []).map((item) => `<span class="pill gap">${esc(item)}</span>`).join("");
@@ -379,7 +379,7 @@ DASHBOARD_TEMPLATE = """
         <h3>Previous experience</h3><ul>${roles || "<li>No structured work history found.</li>"}</ul>
         <h3>Education</h3><ul>${education || "<li>No degree found.</li>"}</ul>
         <h3>Other documents</h3><ul>${docs || "<li>None kept with this application.</li>"}</ul>
-        ${person.file_name ? `<p><a href="/api/applicants/${person.id}/cv">Open CV file</a> <span class="muted">${esc(person.file_name)}</span></p>` : ""}
+        ${person.file_name ? `<p><a href="/api/applicants/${person.id}/cv" target="_blank" rel="noopener">Open CV file</a> <span class="muted">${esc(person.file_name)}</span></p>` : ""}
         <h3>How the score was built</h3>${criteria}
         <label class="field">Mark
           <select id="mark">${options}</select>
